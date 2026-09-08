@@ -11,6 +11,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/sensores")
+@CrossOrigin(origins = "*")
 public class SensorController {
 
     @Autowired

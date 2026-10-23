@@ -11,7 +11,7 @@
 ## 🔗 Links Oficiais
 * **Repositório Backend:** https://github.com/joao0471/backend
 * **Repositório Frontend:** https://github.com/joao0471/mobile
-* **Vídeo de Demonstração (YouTube):** [COLE_O_LINK_DO_YOUTUBE_AQUI]
+* **Vídeo de Demonstração (YouTube):** https://youtu.be/IIhAM6h5enY
 
 ---
 
